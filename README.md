@@ -1,1 +1,3 @@
-# s5-web
+# Newsgrid
+
+A demo news website using CSS grid.
